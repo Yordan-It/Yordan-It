@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yordan-It and I'm from Chile.
 - 👀 I’m interested in mobile apps development
-- 🌱 I’m currently learning iOS development, but in a future I want to expand my knowledge by learning Android development.
+- 🌱 I’m currently learning iOS development, but in a future I want to expand my knowledge by learning Augmented Reality.
 - 😄 Pronouns: him
 
 
